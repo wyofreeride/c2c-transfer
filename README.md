@@ -3,7 +3,7 @@ A Simple Google Colab Notebook to Transfer and Backup Data from One Cloud Storag
 
 **Best way to sync clouds, create multiple backup and transfer.**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ittech2529/c2c-transfer/blob/master/C2C_Transfer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ittech2529/c2c-transfer/blob/master/C2C_Transfer.ipynb)
 
 ### Tutorial
 
